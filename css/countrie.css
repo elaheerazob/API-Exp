@@ -1,0 +1,10 @@
+.coun{
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#countryDiv{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
